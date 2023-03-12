@@ -1,5 +1,5 @@
 # Rockbuster-SQL-Queries-
-Data Analysis SQL Achievement for Career Foundry Performed with PostgreSQL & Lucid Visualization App
+Data Analysis SQL Achievement for Career Foundry Performed with pgadmin PostgreSQL & Lucid Visualization App
 SQL queries from Rockbuster Stealth LLC movie rental project
 
 Objective
